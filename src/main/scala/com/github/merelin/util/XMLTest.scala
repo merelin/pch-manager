@@ -1,4 +1,4 @@
-package com.github.merelin.utils
+package com.github.merelin.util
 
 import scala.xml.{Elem, Node, NodeSeq, XML}
 

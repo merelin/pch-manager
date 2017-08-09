@@ -1,4 +1,4 @@
-package com.github.merelin.utils
+package com.github.merelin.util
 
 import com.thoughtworks.xstream._
 import com.thoughtworks.xstream.io.xml.DomDriver
