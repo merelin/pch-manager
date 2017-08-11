@@ -1,6 +1,6 @@
-package com.github.merelin.util
+package com.github.merelin.util.xml
 
-import scala.xml.{Elem, Node, NodeSeq, XML}
+import scala.xml.{Elem, Node, XML}
 
 object XmlTest {
   val xml = XML.loadString("""<?xml version="1.0"?><root><el1></el1><el2></el2><el3></el3></root>""")
